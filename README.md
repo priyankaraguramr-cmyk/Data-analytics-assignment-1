@@ -1,7 +1,6 @@
 # Data-analytics-assignment-1
 # Project Title
 Data analysis
-Simple overview of use/purpose.
 Using excel finding the total sales  conditional formulas
 ## Description
 i worked on finding total sales,sum,count,average price,minimum and maximum ,if,sumif,count if,from the analysis values used conditional formulas 
