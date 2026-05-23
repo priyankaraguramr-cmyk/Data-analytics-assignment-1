@@ -1,23 +1,20 @@
 # Data-analytics-assignment-1
-All assignments and tasks for data analytics
 # Project Title
-
+Data analysis
 Simple overview of use/purpose.
-
+Using excel finding the total sales  conditional formulas
 ## Description
-
-An in-depth paragraph about your project and overview of use.
+i worked on finding total sales,sum,count,average price,minimum and maximum ,if,sumif,count if,from the analysis values used conditional formulas 
 
 ## Getting Started
+I added new column called price range using if formula as high price or standard price left,right,mid 
 
 ### Dependencies
-
 * Describe any prerequisites, libraries, OS version, etc., needed before installing program.
 * ex. Windows 10
 
 ### Installing
-
-* How/where to download your program
+web version window10 excel worksheet
 * Any modifications needed to be made to files/folders
 
 ### Executing program
