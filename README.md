@@ -3,7 +3,7 @@
 Data analysis
 Using excel finding the total sales  conditional formulas
 ## Description
-i worked on finding total sales,sum,count,average price,minimum and maximum ,if,sumif,count if,from the analysis values used conditional formulas 
+I worked on finding total sales,sum,count,average price,minimum and maximum ,if,sumif,count if,from the analysis values used conditional formulas 
 
 ## Getting Started
 I added new column called price range using if formula as high price or standard price left,right,mid 
