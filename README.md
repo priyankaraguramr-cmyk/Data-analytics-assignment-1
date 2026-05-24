@@ -1,6 +1,6 @@
 # Data-analytics-assignment-1
 # Project Title
-Data analysis
+Retail product sales data analysis using excel
 Using excel finding the total sales  conditional formulas
 ## Description
 I worked on finding total sales,sum,count,average price,minimum and maximum ,if,sumif,count if,from the analysis values used conditional formulas 
